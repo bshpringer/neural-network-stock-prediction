@@ -9,10 +9,10 @@ The data provided gave events for the ETF _SOXX_, which tracks the semiconductor
 My role in the project was to process the raw data into a cleaned dataset with additional features for use in neural networks, as well as create and tune a feedforward neural network that could be used for prediction.
 
 The main contents of this repository are:
-1. [Building the Order Book](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/build_order_book.ipynb): in which I take the raw sequence of events, and build out bid and ask order books which are updated after each event. Several new features are created from the raw data in this notebook.
-2. [Processing the Order Book for Use in Neural Networks](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/neural_net.ipynb): in which I split the data into training, validation, and test sets, as well as standardize features, and encode labels for use in a neural network.
-3. [Feedforward Neural Network](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/neural_net.ipynb): in which I build, run, and tune a neural network using TensorFlow in order to make predictions based on the given data.
-4. [Final Report](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/Final_Report.pdf): in which we discuss the process, results, and conclusions of the project.
+1. [Building the Order Book](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/code/build_order_book.ipynb): in which I take the raw sequence of events, and build out bid and ask order books which are updated after each event. Several new features are created from the raw data in this notebook.
+2. [Processing the Order Book for Use in Neural Networks](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/code/neural_net.ipynb): in which I split the data into training, validation, and test sets, as well as standardize features, and encode labels for use in a neural network.
+3. [Feedforward Neural Network](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/code/neural_net.ipynb): in which I build, run, and tune a neural network using TensorFlow in order to make predictions based on the given data.
+4. [Final Report](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/info/Final_Report.pdf): in which we discuss the process, results, and conclusions of the project.
 
 As well as additional comments regarding some of the logic and features:
 * [Logic for OrderBook class methods](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/info/OrderBook_Methods.ipynb)
