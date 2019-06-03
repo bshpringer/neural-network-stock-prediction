@@ -16,4 +16,4 @@ The main contents of this repository are:
 
 As well as additional comments regarding some of the logic and features:
 * [Logic for OrderBook class methods](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/info/OrderBook_Methods.ipynb)
-* Descriptions of Raw and Engineered Features
+* [Descriptions of Raw and Engineered Features](https://github.com/bshpringer/neural-network-stock-prediction/blob/master/info/Column_Descriptions.ipynb)
