@@ -1,6 +1,6 @@
 # Predicting Price Movements of an Exchange Traded Fund Using Neural Networks
 
-This repository includes code, comments, and a report for the final project of UVA's SYS 6016 Machine Learning course. 
+This repository includes code, comments, and a report for the final project of UVA's SYS6016 Machine Learning course. 
 
 The objective was to use neural networks to make predictions for future price movements for a stock on the NASDAQ exchange. This was a group project; however, the code and comments in this repository were written by me, Beni Shpringer. There was additional code written by other UVA students which is not included here, but is referenced in the final report.
 
